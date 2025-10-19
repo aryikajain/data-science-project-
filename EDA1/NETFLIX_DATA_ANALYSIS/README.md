@@ -89,3 +89,9 @@ To make this project more advanced and portfolio-ready:
 - Presenting results in a professional notebook format
 
 ---
+## Key Insights
+- ~70% of Netflix’s catalog are Movies.
+- USA, India, and UK dominate content production.
+- Top genres: Drama, Comedy, and International Movies.
+- Major growth in content post-2015.
+- Netflix focuses on young adult audiences (TV-MA, TV-14)
